@@ -1,4 +1,4 @@
-# Template for Electron based application
+# Template for [Electron](https://electron.atom.io/) based application
 
 ## Development
 
